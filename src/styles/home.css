@@ -1,0 +1,15 @@
+.display{
+    font-size: 30px;
+    color: rgb(31, 2, 43);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.home{
+    background-image: linear-gradient(to right, rgb(130, 239, 130),rgb(234, 182, 87));
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: aliceblue;
+    border-radius: 15px;
+    padding: 7px;
+    margin: 7px;
+    margin-top: 25px;
+}

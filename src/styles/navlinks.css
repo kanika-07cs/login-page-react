@@ -1,0 +1,23 @@
+
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(188, 244, 121);
+    border-radius: 15px;
+}
+.navlinks ul{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+.navlinks ul li{
+    color: rgb(30, 22, 22);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin: 20px;
+    cursor: pointer;
+}
+.navlinks ul li:hover{
+    color: rgb(68, 68, 233);
+}
