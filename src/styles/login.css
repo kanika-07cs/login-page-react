@@ -13,10 +13,6 @@
     font-weight: bold;
     margin-bottom: 15px;
 }
-.form {
-    display: flex;
-    flex-direction: column;
-  }
 .form input{
     width: 80%;
     font-size: 18px;
